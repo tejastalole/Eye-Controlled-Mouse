@@ -1,1 +1,1 @@
-# This Mouse-Cursor-Controlled-By-Eyes Is built in python and some libraries such as pyautogui, mediapipe & opencv
+# This Mouse-Cursor-Controlled-By-Eyes Project Is Built In Python And Some Libraries Such As Pyautogui, Mediapipe & Opencv
